@@ -81,6 +81,3 @@ terraforecast/
 └── package.json
 ```
 
-## License
-
-MIT
